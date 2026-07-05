@@ -59,8 +59,7 @@
     "status": "wip",
     "order": 6,
     "category": "general"
-  },
-  {
+  },  {
     "id": "Data-Compare-Visualizer",
     "name": "Data Compare Visualizer",
     "url": "https://tool7.toolsmonger.com",
@@ -75,7 +74,7 @@
     "name": "Data Triage",
     "url": "https://tool8.toolsmonger.com",
     "description": "Helps you identify and prioritize data issues for resolution, ensuring data quality and integrity.",
-    "icon": "wrench",
+    "icon": "sethoscope",
     "status": "wip",
     "order": 8,
     "category": "general"

@@ -86,6 +86,71 @@ const TOOL_ICONS = {
              M73 73 l7 7
              M80 20 l-7 7
              M27 73 l-7 7" />
+  `,
+ 
+  // Testing / QA tools
+  testTube: `
+    <path d="M38 15
+             L38 65
+             a12 12 0 0 0 24 0
+             L62 15" />
+    <line x1="34" y1="15" x2="66" y2="15" />
+    <line x1="38" y1="50" x2="62" y2="50" />
+    <circle cx="45" cy="40" r="2" />
+    <circle cx="55" cy="34" r="2" />
+  `,
+ 
+  // Data visualization / dashboard tools
+  charts: `
+    <line x1="15" y1="85" x2="85" y2="85" />
+    <rect x="25" y="55" width="14" height="30" />
+    <rect x="45" y="32" width="14" height="53" />
+    <rect x="65" y="45" width="14" height="40" />
+  `,
+ 
+  // Housing / property / real-estate investment tools
+  house: `
+    <path d="M50 14
+             L86 46
+             L76 46
+             L76 86
+             L24 86
+             L24 46
+             L14 46
+             Z" />
+    <rect x="30" y="50" width="12" height="12" />
+    <rect x="43" y="62" width="14" height="24" />
+  `,
+ 
+  // Prayer times / Islamic calendar tools
+  crescentMoon: `
+    <path d="M50 10
+             A40 40 0 1 0 50 90
+             A32 32 0 1 1 50 10
+             Z" />
+    <path d="M76 26 l2 5 l5 2 l-5 2 l-2 5 l-2 -5 l-5 -2 l5 -2 Z" />
+  `,
+ 
+  // Data comparison / tabular result tools
+  tables: `
+    <rect x="15" y="20" width="70" height="60" rx="3" />
+    <line x1="15" y1="40" x2="85" y2="40" />
+    <line x1="15" y1="60" x2="85" y2="60" />
+    <line x1="41" y1="20" x2="41" y2="80" />
+    <line x1="59" y1="20" x2="59" y2="80" />
+  `,
+ 
+  // Data triage / diagnostic tools
+  stethoscope: `
+    <path d="M32 12
+             v24
+             a18 18 0 0 0 18 18" />
+    <path d="M68 12
+             v24
+             a18 18 0 0 1 -18 18" />
+    <line x1="50" y1="54" x2="50" y2="68" />
+    <circle cx="50" cy="80" r="10" />
+    <circle cx="50" cy="80" r="3" />
   `
 
 };
