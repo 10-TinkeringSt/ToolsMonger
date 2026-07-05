@@ -24,7 +24,7 @@
     "name": "Internet Speed Testing Bot",
     "url": "https://istb.toolsmonger.com",
     "description": "Raspberry Pi-based tool attached to router ISP via Ethernet that tests your internet speed continiously at scheduled intervals.",
-    "icon": "test-tube",
+    "icon": "testTube",
     "status": "wip",
     "order": 3,
     "category": "general"
@@ -34,7 +34,7 @@
     "name": "internet-speed-metrics-visualizer",
     "url": "https://ismv.toolsmonger.com",
     "description": "Visualizes the internet speed metrics collected by the Internet Speed Testing Bot in a simple and easy to understand way.",
-    "icon": "chart",
+    "icon": "charts",
     "status": "wip",
     "order": 4,
     "category": "general"
@@ -55,7 +55,7 @@
     "url": "https://ttnp.toolsmonger.com",
     "description": "Notifies you of prayer times in your area.",
     "icon": "clock",
-    "iconSvg": "crescent-moon",
+    "iconSvg": "crescentMoon",
     "status": "wip",
     "order": 6,
     "category": "general"
