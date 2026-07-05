@@ -1,0 +1,83 @@
+[
+  {
+    "id": "exampacer",
+    "name": "Exampacer",
+    "url": "https://exampacer.toolsmonger.com",
+    "description": "Paces a practice exam against the clock, section by section, so you can see exactly where the time goes before it costs you in the real thing.",
+    "icon": "stopwatch",
+    "status": "live",
+    "order": 1,
+    "category": "general"
+  },
+  {
+    "id": "investment-simulator",
+    "name": "Investment Simulator",
+    "url": "https://investment-simulator.toolsmonger.com",
+    "description": "Runs a portfolio forward under different contribution and return assumptions, so you can see how it actually compounds over time.",
+    "icon": "growth",
+    "status": "live",
+    "order": 2,
+    "category": "general"
+  },
+  {
+    "id": "tool3",
+    "name": "Unit Converter",
+    "url": "https://tool3.toolsmonger.com",
+    "description": "Converts between units of length, weight, volume, and temperature without hunting for the right formula.",
+    "icon": "ruler",
+    "status": "wip",
+    "order": 3,
+    "category": "general"
+  },
+  {
+    "id": "tool4",
+    "name": "Split Calculator",
+    "url": "https://tool4.toolsmonger.com",
+    "description": "Splits a shared bill unevenly across people, accounting for who ordered what.",
+    "icon": "calculator",
+    "status": "wip",
+    "order": 4,
+    "category": "general"
+  },
+  {
+    "id": "tool5",
+    "name": "Checklist Builder",
+    "url": "https://tool5.toolsmonger.com",
+    "description": "Builds a reusable checklist for repeatable tasks, with steps that reset each time you run through it.",
+    "icon": "checklist",
+    "status": "wip",
+    "order": 5,
+    "category": "general"
+  },
+  {
+    "id": "tool6",
+    "name": "Route Finder",
+    "url": "https://tool6.toolsmonger.com",
+    "description": "Finds the shortest route across several stops instead of guessing an order to visit them in.",
+    "icon": "custom",
+    "iconSvg": "<path d='M20 80 L50 20 L80 80 Z'/><circle cx='50' cy='58' r='6'/>",
+    "status": "wip",
+    "order": 6,
+    "category": "general"
+  },
+  {
+    "id": "tool7",
+    "name": "Settings Sync",
+    "url": "https://tool7.toolsmonger.com",
+    "description": "Keeps a small set of preferences in sync across devices without a full account system.",
+    "icon": "gear",
+    "status": "wip",
+    "order": 7,
+    "category": "general"
+  },
+  {
+    "id": "tool8",
+    "name": "Habit Tracker",
+    "url": "https://tool8.toolsmonger.com",
+    "description": "Tracks a handful of daily habits and shows the streak at a glance.",
+    "icon": "wrench",
+    "status": "wip",
+    "order": 8,
+    "category": "general"
+  }
+]

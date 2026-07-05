@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Toolsmonger</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Work+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="wrap">
+  <header><span class="brand">Toolsmonger</span></header>
+
+  <section class="hero">
+    <h1>Toolsmonger</h1>
+    <p class="sub">A collection of single-purpose tools.</p>
+  </section>
+
+  <section class="catalog">
+    <div class="catalog-head">
+      <span>On the board</span>
+      <span id="toolCount">— tools</span>
+    </div>
+    <div class="board" id="board"></div>
+  </section>
+</div>
+
+<div class="workbench">
+  <div class="wrap">
+    <div class="chalkboard">
+      <p class="wb-title" id="wbTitle">Hover a tool</p>
+      <p class="wb-desc" id="wbDesc">Rest your mouse over anything on the board to read what it does.</p>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" id="overlay">
+  <div class="modal">
+    <button class="close" id="closeModal">&times;</button>
+    <div class="icon-wrap" id="modalIcon"></div>
+    <h2 id="modalTitle"></h2>
+    <p id="modalDesc"></p>
+    <a class="go" id="modalGo" href="#" target="_blank" rel="noopener">Go to tool →</a>
+  </div>
+</div>
+
+<script src="icons.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
