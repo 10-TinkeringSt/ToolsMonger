@@ -6,7 +6,7 @@
     "description": "A time training tool for kids taking practice exams so they can improve their pacing skills. It showws how many question should be attempted by when and whats left over. Can also come handy for adults in some other usecase.",
     "icon": "stopwatch",
     "status": "live",
-    "order": 1,
+    "order": 2,
     "category": "general"
   },
   {
@@ -16,7 +16,7 @@
     "description": "Runs a comparitive analysis of house buying and portfolio management under different contribution and return assumptions, so you can see how it actually compounds over time and what is more fetching in the long run.",
     "icon": "growth",
     "status": "live",
-    "order": 2,
+    "order": 1,
     "category": "general"
   },
   {
