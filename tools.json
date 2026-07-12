@@ -20,11 +20,21 @@
     "category": "general"
   },
   {
+    "id": "Diff-Ledger",
+    "name": "Diff Ledger",
+    "url": "https://diff-ledger.toolsmonger.com",
+    "description": "Compares two CSV files and highlights the differences.",
+    "icon": "compare",
+    "status": "live",
+    "order": 3,
+    "category": "general"
+  },
+  {
     "id": "internet-speed-testing-bot",
     "name": "Internet Speed Testing Bot",
     "url": "https://istb.toolsmonger.com",
     "description": "Raspberry Pi-based tool attached to router ISP via Ethernet that tests your internet speed continiously at scheduled intervals.",
-    "icon": "testTube",
+    "icon": "speedometer",
     "status": "wip",
     "order": 3,
     "category": "general"
@@ -50,11 +60,11 @@
     "category": "general"
   },
   {
-    "id": "Prayer-Times-Notifier",
-    "name": "Prayer Times Notifier",
-    "url": "https://ttnp.toolsmonger.com",
+    "id": "Time-Notifier",
+    "name": "Time Notifier",
+    "url": "https://salah-time.toolsmonger.com",
     "description": "Notifies you of prayer times in your area.",
-    "icon": "clock",
+    "icon": "wallclock",
     "iconSvg": "crescentMoon",
     "status": "wip",
     "order": 6,

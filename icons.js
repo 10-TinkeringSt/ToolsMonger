@@ -151,6 +151,50 @@ const TOOL_ICONS = {
     <line x1="50" y1="54" x2="50" y2="68" />
     <circle cx="50" cy="80" r="10" />
     <circle cx="50" cy="80" r="3" />
+  `,
+
+  // Side-by-side comparison tools
+  compare: `
+    <path d="M25 12
+             L25 62
+             a10 10 0 0 0 20 0
+             L45 12" />
+    <line x1="21" y1="12" x2="49" y2="12" />
+    <line x1="25" y1="52" x2="45" y2="52" />
+    <path d="M55 26
+             L55 62
+             a10 10 0 0 0 20 0
+             L75 26" />
+    <line x1="51" y1="26" x2="79" y2="26" />
+    <line x1="55" y1="40" x2="75" y2="40" />
+  `,
+
+  // Speed / performance measurement tools
+  speedometer: `
+    <path d="M14 66
+             a36 36 0 1 1 72 0" />
+    <line x1="14" y1="66" x2="22" y2="66" />
+    <line x1="78" y1="66" x2="86" y2="66" />
+    <line x1="50" y1="22" x2="50" y2="30" />
+    <line x1="26" y1="66" x2="32" y2="60" />
+    <line x1="74" y1="66" x2="68" y2="60" />
+    <line x1="50" y1="66" x2="66" y2="42" />
+    <circle cx="50" cy="66" r="5" />
+  `,
+
+  // Time / schedule tools
+  wallclock: `
+    <circle cx="50" cy="40" r="26" />
+    <line x1="50" y1="14" x2="50" y2="18" />
+    <line x1="50" y1="58" x2="50" y2="62" />
+    <line x1="24" y1="40" x2="28" y2="40" />
+    <line x1="72" y1="40" x2="76" y2="40" />
+    <line x1="50" y1="40" x2="50" y2="26" />
+    <line x1="50" y1="40" x2="62" y2="40" />
+    <circle cx="50" cy="40" r="3" />
+    <path d="M36 62 L64 62 L64 84 a14 14 0 0 1 -28 0 Z" />
+    <line x1="50" y1="62" x2="50" y2="76" />
+    <circle cx="50" cy="80" r="5" />
   `
 
 };
