@@ -45,7 +45,7 @@
     "url": "https://ismv.toolsmonger.com",
     "description": "Visualizes the internet speed metrics collected by the Internet Speed Testing Bot in a simple and easy to understand way.",
     "icon": "charts",
-    "status": "wip",
+    "status": "live",
     "order": 4,
     "category": "general"
   },
