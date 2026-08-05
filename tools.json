@@ -88,5 +88,15 @@
     "status": "wip",
     "order": 8,
     "category": "general"
+  },
+  {
+    "id": "Data-Recon",
+    "name": "Data Recon",
+    "url": "https://data-recon.toolsmonger.com",
+    "description": "Helps you reconcile large data sets.",
+    "icon": "tables",
+    "status": "wip",
+    "order": 8,
+    "category": "general"
   }
 ]
