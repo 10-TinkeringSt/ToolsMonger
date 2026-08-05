@@ -95,7 +95,7 @@
     "url": "https://data-recon.toolsmonger.com",
     "description": "Helps you reconcile large data sets.",
     "icon": "tables",
-    "status": "wip",
+    "status": "live",
     "order": 8,
     "category": "general"
   }
